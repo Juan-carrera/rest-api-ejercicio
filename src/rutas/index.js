@@ -23,7 +23,7 @@ router.get('/api/ingresanumero/:numero',(req,res) => {
         res.json({
             "Numero ingresado" : numero,
             "Numero multiplicado por 3" : valorMultiplicado,
-            "respuesta" :  valorMultiplicado + "es numero par "
+            "respuesta" : `${valorMultiplicado} es numero par`
         });
     } else {
 
@@ -31,7 +31,7 @@ router.get('/api/ingresanumero/:numero',(req,res) => {
         res.json({
             "Numero ingresado" : numero,
             "Numero multiplicado por 3" : valorMultiplicado,
-            "respuesta" : valorMultiplicado + "es numero impar"
+            "respuesta" : `${valorMultiplicado} es numero impar`
         });
         
     }
