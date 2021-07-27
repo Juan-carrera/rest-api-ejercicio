@@ -37,6 +37,16 @@ como respuesta obtendremos:
 ```
 
 
+SOLO RECIBE COMO PARAMETRO NUMEROS ENTEROS POSITIVOS
+
+## No se pudo realizar... ☹
+
+* Validaciones 
+* Manejo de errores
+```
+https://expressjs.com/es/guide/error-handling.html
+```
+
 ## Despliegue 📦
 
 Heroku
