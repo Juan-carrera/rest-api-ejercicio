@@ -31,7 +31,7 @@ router.get('/api/ingresanumero/:numero',(req,res) => {
         res.json({
             "Numero ingresado" : numero,
             "Numero multiplicado por 3" : valorMultiplicado,
-            "respuesta" : `El numero ${valorMultiplicado} tiene un resultado impar impar`
+            "respuesta" : `El numero ${valorMultiplicado} tiene un resultado impar`
         });
         
     }
