@@ -41,8 +41,13 @@ SOLO RECIBE COMO PARAMETRO NÚMEROS ENTEROS POSITIVOS
 
 ## No se pudo realizar... ☹
 
-* Validaciones 
-* Manejo de errores
+* Validaciones en rutas
+
+```
+https://www.kevinleary.net/regex-route-express/
+```
+
+*  Manejo de errores
 ```
 https://expressjs.com/es/guide/error-handling.html
 ```
