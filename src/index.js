@@ -16,7 +16,7 @@ app.use(express.urlencoded({extended: false}));
 
 
 //rutas
-app.use(require('./src/rutas/index'));
+app.use(require('./rutas/index'));
 
 
 //empezando el servidor

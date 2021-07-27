@@ -1,10 +1,11 @@
 {
   "name": "rest-api-node",
   "version": "0.0.1",
-  "description": "Backend para el ejercicio",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js",
+    "start:dev": "nodemon src/index.js"
   },
   "keywords": [],
   "author": "Juan antonio carrera contreras",
