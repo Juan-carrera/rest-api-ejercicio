@@ -48,6 +48,7 @@ https://rest-api-ejercicio.herokuapp.com/
 ## Construido con 🛠️
 
 * Node JS
+* Express JS
 
 ## Recursos utilizados👀
 
@@ -63,7 +64,7 @@ https://expressjs.com/es/guide/routing.html
 https://dzone.com/articles/deploy-your-node-express-app-on-heroku-in-8-easy-s
 ```
 
-## Autores ✒️
+## Autor ✒️
 
 * **Juan antonio carrera contreras** 
 
