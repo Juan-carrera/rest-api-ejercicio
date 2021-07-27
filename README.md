@@ -1,6 +1,6 @@
 # REST API PAR Ó IMPAR
 
-rest api que calcula si un numero es par ó impar y regresa la respuesta en formato json
+rest api que calcula si un número es par ó impar y regresa la respuesta en formato json
 
 ## Comenzando 🚀
 
@@ -18,7 +18,7 @@ veremos un mensaje de bienvenida:
 }
 ```
 
-Para poder calcular si un numero es par ó impar debemos ingresar a la ruta /api/ingresanumero/"numero"
+Para poder calcular si un número es par ó impar debemos ingresar a la ruta /api/ingresanumero/"número"
 
 Ejemplo:
 
@@ -37,7 +37,7 @@ como respuesta obtendremos:
 ```
 
 
-SOLO RECIBE COMO PARAMETRO NUMEROS ENTEROS POSITIVOS
+SOLO RECIBE COMO PARAMETRO NÚMEROS ENTEROS POSITIVOS
 
 ## No se pudo realizar... ☹
 
