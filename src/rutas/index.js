@@ -8,7 +8,7 @@ router.get('/',(req,res)=>{
 
 });
 
-router.get('/api/par-impar/:numero',(req,res) => {
+router.get('/api/ingresanumero/:numero',(req,res) => {
 
     //se obtiene,guarda y castea el valor obtenido del request
     let numero = parseInt(req.params.numero);
